@@ -4,9 +4,9 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './ResearchStyles';
 
 const data = [
-  { text: 'Mass Converted from the Energy of Motion',},
-  { text: 'Higher Multiplicative Series', },
-  { text: 'Special Series Search [Under-Work]', },
+  {number:2021, text: 'Mass Converted from the Energy of Motion',},
+  {number:2021, text: 'Higher Multiplicative Series', },
+  {number:2022, text: 'Special Series Search [Under-Work]', },
 //   { text: 'Github Stars', }
 ];
 
@@ -16,7 +16,7 @@ const Acomplishments = () => (
     <Boxes>
       {data.map((card, index) => (
         <Box key={index}>
-          {/* <BoxNum>{`${card.number}+`}</BoxNum> */}
+          <BoxNum>{`${card.number}`}</BoxNum>
           <BoxText>{card.text}</BoxText>
         </Box>
       ))}
