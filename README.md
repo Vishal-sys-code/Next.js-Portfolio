@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+### [Live Site](https://next-js-portfolio-gules.vercel.app/)
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
@@ -10,3 +10,4 @@ In this video, we will create a full Personal Development Portfolio. We're going
 
 Setup:
 - run ```npm i && npm start```
+- deploy in localhost ```npm run dev```
