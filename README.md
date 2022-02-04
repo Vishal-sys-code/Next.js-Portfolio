@@ -2,7 +2,7 @@
 
 ### [Live Site](https://next-js-portfolio-gules.vercel.app/)
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+<!-- ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png) -->
 
 
 
